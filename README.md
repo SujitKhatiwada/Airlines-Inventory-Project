@@ -1,5 +1,6 @@
 # AirlineInventory
-Coding Exercise
+Coding Exercise<br><br>
+Here are two folders optimized and structural coding following SOLID principle in the new one whereas normal and non-dynamic coding in "AirlineInventory" for comparision.
 
  For the purposes of this exercise, it’s expected to implement a console application driven from a main
 method,<br>
